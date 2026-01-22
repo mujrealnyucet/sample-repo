@@ -1,1 +1,1 @@
-console.log('Nope, no hello for you, hmph')
+console.log('Hello cruel world xd')
