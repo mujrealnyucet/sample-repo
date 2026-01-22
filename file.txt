@@ -1,3 +1,1 @@
-My beatifull text content
-Updated text
-Really an update
+Only this shall now be the content of text file
